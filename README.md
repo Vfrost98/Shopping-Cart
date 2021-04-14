@@ -1,5 +1,5 @@
 C++ Assignment created in 2020.
-This program utilizes OOP design and will ask the user for their name and current date.
+This program utilizes OOP design principles and will ask the user for their name and current date.
 It will then display a menu that allows the user to:
 
 1. Add items to thier shopping cart
